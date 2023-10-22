@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mobile Clinic2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <!--logIn-->
+    <string name="dil">DRUG International Limited</string>
+    <string name="user_name">User Name</string>
+    <string name="user_mail">User Mail</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone No</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="btn_img">Btn Image</string>
+    <string name="img">IMG\n</string>
+    <string name="btn">button\n</string>
+    <string name="departments">Departments</string>
+</resources>
